@@ -1,0 +1,55 @@
+Second IVS project plan.
+Team name: Yamete kudasai.
+
+1. Deadlines
+	- 10.3.2023 (Project plan)
+
+	- 30.3.2023 -(Create readme file(README.md))
+                -(Think over all inner logic of our program)
+                -(Create tests for math library by Interface IMath)
+                -(Create interface for math library, GUI interface)
+
+	- 15.4.2023 -(Implementation of math library by interface IMath and Tests)
+                -(Standard deviation, Link GUI Interface with Math library)
+                -(Program documentation in Doxygen, Mockup GUI, Application un/installer, Profiling
+	            standard deviation)
+
+	- 24.4.2023 -(User documentation, Create Makefile)
+                -(Create rating of team members hodnoceni.txt, Report about differences between the
+		        project and reality reality.txt, Create file odevzdani.txt)
+
+	- 8.5.2023 (Create files xloginNN_problemy.txt, PDF presentation)
+
+2.Tasks deviation between team members
+    - xshapo04 Shaposhnik Bogdan
+		- Project plan
+		- Inner logic and code of program
+        - Creating Makefile
+        - Create tests for math library by Interface IMath
+    - xurman00 Urmanbetov Aidan
+        - User documentation
+        - Make README file
+        - Installer
+        - Profiling standard deviation
+    - xzvere00 Zverev Daniil
+        - GUI interface
+        - Link GUI Interface with Math library
+        - Create interface for math library
+        - Create tests for math library by Interface IMath
+    - Together tasks
+        - Create rating of team members hodnoceni.txt
+        - Program documentation in Doxygen
+        - Mockup GUI
+        - Report about differences between the project and reality reality.txt
+		- Create file odevzdani.txt
+		- Create files xloginNN_problemy.txt
+		- PDF presentation
+
+3. Communication channels and rules
+    -We created Telegram App chanel to communicate between each other.
+    -We also own telephone numbers of each team member, to call each other in extreme situations.
+
+4. Selected VCS and hosting for remote repository
+	- VCS: Git.
+	- Hosting: https://github.com/.
+	- Our repository is https://github.com/Amega-h/Project-2.-IVS owned by team leader Shaposhnik Bogdan (xshapo04).
